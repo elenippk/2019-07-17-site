@@ -10,7 +10,7 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Software Carpentry Workshop Athens"
 
 
 #------------------------------------------------------------
@@ -23,7 +23,7 @@ kind: "workshop"
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
 # Please don't change it: <USERNAME>/<PROJECT> is correct.
-repository: <USERNAME>/<PROJECT>
+repository: elenippk/2019-07-17-site
 
 # Email address, no mailto:
 # (Don't change this -- the contact address for your workshop will be set 
@@ -45,7 +45,7 @@ swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/carpentries/styles"
 training_site: "https://carpentries.github.io/instructor-training"
 workshop_repo: "https://github.com/carpentries/workshop-template"
-workshop_site: "https://carpentries.github.io/workshop-template"
+workshop_site: "https://elenippk.github.io/2019-07-17-site"
 
 # Surveys.
 swc_pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id="
@@ -57,7 +57,7 @@ lc_pre_survey: "https://www.surveymonkey.com/r/lcpreworkshopsurvey?workshop_id="
 lc_post_survey: "https://www.surveymonkey.com/r/lcpostworkshopsurvey?workshop_id="
 
 # Start time in minutes (0 to be clock-independent, 540 to show a start at 09:00 am).
-start_time: 0
+start_time: 540
 
 # Specify that things in the episodes collection should be output.
 collections:
